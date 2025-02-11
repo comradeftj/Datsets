@@ -1,0 +1,39 @@
+Provinsi,Baik,Rusak Ringan,Rusak Sedang,Rusak Berat,Jumlah_kelas,Status
+DKI Jakarta,10020,983,63,5,11071,Swasta
+Jawa Barat,21352,4849,895,308,27404,Swasta
+Jawa Tengah,10963,2860,482,204,14509,Swasta
+DI Yogyakarta,2942,938,196,66,4142,Swasta
+Jawa Timur,14022,4284,1164,408,19878,Swasta
+Aceh,1086,458,184,81,1809,Swasta
+Sumatera Utara,10930,2891,991,515,15327,Swasta
+Sumatera Barat,2457,685,132,91,3365,Swasta
+Riau,4730,1168,368,156,6422,Swasta
+Jambi,1039,460,122,32,1653,Swasta
+Sumatera Selatan,3051,874,301,142,4368,Swasta
+Lampung,2513,1021,458,107,4099,Swasta
+Kalimantan Barat,1993,565,197,68,2823,Swasta
+Kalimantan Tengah,1472,409,123,25,2029,Swasta
+Kalimantan Selatan,1338,281,85,16,1720,Swasta
+Kalimantan Timur,2404,540,57,45,3046,Swasta
+Sulawesi Utara,2423,1322,1327,722,5794,Swasta
+Sulawesi Tengah,960,354,318,214,1846,Swasta
+Sulawesi Selatan,2529,578,318,126,3551,Swasta
+Sulawesi Tenggara,354,168,116,39,677,Swasta
+Maluku,1251,700,1072,660,3683,Swasta
+Bali,1641,134,15,1,1791,Swasta
+Nusa Tenggara Barat,1132,484,363,103,2082,Swasta
+Nusa Tenggara Timur,4737,4507,3686,2094,15024,Swasta
+Papua,931,643,751,268,2593,Swasta
+Bengkulu,597,359,171,14,1141,Swasta
+Maluku Utara,403,349,332,252,1336,Swasta
+Banten,7381,1427,255,86,9149,Swasta
+Kepulauan Bangka Belitung,591,109,35,12,747,Swasta
+Gorontalo,160,33,29,27,249,Swasta
+Kepulauan Riau,2674,729,61,56,3520,Swasta
+Papua Barat,557,325,185,112,1179,Swasta
+Sulawesi Barat,134,52,48,21,255,Swasta
+Kalimantan Utara,315,64,43,25,447,Swasta
+Papua Tengah,964,642,469,117,2192,Swasta
+Papua Selatan,553,523,399,204,1679,Swasta
+Papua Pegunungan,358,356,149,180,1043,Swasta
+Papua Barat Daya,649,530,316,151,1646,Swasta

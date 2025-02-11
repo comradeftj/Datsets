@@ -1,0 +1,39 @@
+Provinsi,Baik,Rusak Ringan,Rusak Sedang,Rusak Berat,Jumlah_kelas,Status
+DKI Jakarta,13300,2903,654,340,17197,Negeri
+Jawa Barat,38240,41157,33537,14089,127023,Negeri
+Jawa Tengah,40087,39496,25839,13253,118675,Negeri
+DI Yogyakarta,5275,2940,1631,482,10328,Negeri
+Jawa Timur,44657,38612,23054,13981,120304,Negeri
+Aceh,9175,7025,5892,3041,25133,Negeri
+Sumatera Utara,22796,18312,13889,8856,63853,Negeri
+Sumatera Barat,9707,8436,7772,3509,29424,Negeri
+Riau,11205,7577,6090,3563,28435,Negeri
+Jambi,5818,5327,4579,2345,18069,Negeri
+Sumatera Selatan,12307,9965,8364,3380,34016,Negeri
+Lampung,11069,10090,8993,3777,33929,Negeri
+Kalimantan Barat,8885,7975,7046,4019,27925,Negeri
+Kalimantan Tengah,5269,4838,4278,2064,16449,Negeri
+Kalimantan Selatan,7702,5772,5006,1622,20102,Negeri
+Kalimantan Timur,7273,3892,2269,1452,14886,Negeri
+Sulawesi Utara,3832,2385,1799,1202,9218,Negeri
+Sulawesi Tengah,6770,4893,4432,2673,18768,Negeri
+Sulawesi Selatan,13579,11371,12810,5864,43624,Negeri
+Sulawesi Tenggara,5513,4202,4080,2665,16460,Negeri
+Maluku,3292,1756,2464,1570,9082,Negeri
+Bali,7005,4701,3027,1141,15874,Negeri
+Nusa Tenggara Barat,6663,7334,6014,1417,21428,Negeri
+Nusa Tenggara Timur,8204,7464,6354,4613,26635,Negeri
+Papua,1079,715,1073,604,3471,Negeri
+Bengkulu,3635,3012,3188,703,10538,Negeri
+Maluku Utara,2141,1818,2587,1017,7563,Negeri
+Banten,13376,9154,5862,3348,31740,Negeri
+Kepulauan Bangka Belitung,2767,1631,1250,1035,6683,Negeri
+Gorontalo,2872,1458,1574,587,6491,Negeri
+Kepulauan Riau,3226,1321,801,594,5942,Negeri
+Papua Barat,1099,858,552,227,2736,Negeri
+Sulawesi Barat,2436,2013,2485,2034,8968,Negeri
+Kalimantan Utara,1661,823,506,557,3547,Negeri
+Papua Tengah,719,819,560,184,2282,Negeri
+Papua Selatan,657,729,549,392,2327,Negeri
+Papua Pegunungan,961,868,749,695,3273,Negeri
+Papua Barat Daya,835,476,396,358,2065,Negeri
